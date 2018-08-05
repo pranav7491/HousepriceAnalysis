@@ -10,4 +10,6 @@ So far,
 - The Total Basement are of a house has more of a quadratic relation between Sale price. After 2000 Square Feet Sale price increase is qudratic.
 - For YearBuilt the Sale Price is linear initially but it increases qudratically after the year 1960.
 - The HeatMap Feature is used to find Correlation between various numerical attributes and, to decide whether to use them or to drop them. 
+- The pairplot diagram gives us the relation between variables. Variables TotalBsmtSF,  GrLiveArea have a partila linear relation. Also, variables SalePrice and YearBuilt have a rough exponential relation.
+
 
